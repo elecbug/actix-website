@@ -1,9 +1,20 @@
 {
-    "cSpell.words": [
-        "actix",
-        "deserialization",
-        "rustls",
-        "serde",
-        "struct"
-    ]
+  "cSpell.words": [
+    "actix",
+    "deserialization",
+    "pemfile",
+    "rustdoc",
+    "rustls",
+    "serde",
+    "struct"
+  ],
+  "markdownlint.config": {
+    "no-inline-html": false,
+    "link-image-reference-definitions": false,
+    "commands-show-output": false,
+    "fenced-code-language": false,
+    "no-trailing-punctuation": {
+      "punctuation": ".,;:。，；："
+    }
+  }
 }
